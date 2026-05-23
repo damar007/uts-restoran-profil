@@ -19,19 +19,18 @@ Restoran Profil
 ## Screenshot
 
 ### Home
-![Home](screenshots/home.png)
 
 ### Menu
-![Menu](screenshots/menu.png)
+
 
 ### Detail Menu
-![Detail](screenshots/detail.png)
+
 
 ### Profile
-![Profile](screenshots/profile.png)
+
 
 ### Edit Profile
-![Edit](screenshots/edit.png)
+
 
 ## Teknologi
 
